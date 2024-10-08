@@ -1,0 +1,18 @@
+
+theory11
+PASSWORD
+RESET REQUESTED
+♦ ♦ ♦
+Hi,
+A password reset request was issued for your account at theory11.
+
+To create a new password, click the button below. If you did not request a new password, ignore this message and nothing will change.
+
+This link will expire in 1 hour.
+
+
+
+RESET PASSWORD
+theory11
+If you have any questions, contact theory11 or reply to this message.
+Thanks again for your support!
